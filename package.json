@@ -11,5 +11,5 @@
   "dependencies": {
     "@linclark/pkg": "^1.0.3"
   },
-  "repository": "http://github.com/gitseitanaka/study-how-to-npm-test"
+  "repository": "http://github.com/gitseitanaka/study-how-to-npm"
 }
