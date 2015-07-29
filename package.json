@@ -11,5 +11,13 @@
   "dependencies": {
     "@linclark/pkg": "^1.0.3"
   },
-  "repository": "http://github.com/gitseitanaka/study-how-to-npm"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gitseitanaka/study-how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gitseitanaka/study-how-to-npm/issues"
+  },
+  "homepage": "https://github.com/gitseitanaka/study-how-to-npm#readme",
+  "devDependencies": {}
 }
