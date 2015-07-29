@@ -1,6 +1,6 @@
 {
   "name": "study-how-to-npm-test",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "TEST",
   "main": "index.js",
   "scripts": {
