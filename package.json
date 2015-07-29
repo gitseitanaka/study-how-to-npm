@@ -1,0 +1,15 @@
+{
+  "name": "study-how-to-npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "gitseitanaka",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "repository":"http://github.com/gitseitanaka/study-how-to-npm-test"
+}
